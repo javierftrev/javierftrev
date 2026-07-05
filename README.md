@@ -1,4 +1,4 @@
-# Hi, I'm Javier Fernández 👋
+# Hi, I'm Javier Fernández 
 
 **Systems Engineering student @ UVM Monterrey · Bilingual (English B2+) · Looking for remote roles in IT/Dev**
 
@@ -6,12 +6,12 @@
 
 ## About me
 
-- 🎓 4th semester — Ingeniería en Sistemas Computacionales, Universidad del Valle de México
-- 📍 Monterrey, Nuevo León, México
-- 🌐 Bilingual: Spanish (native) + English B2+ (certified ELET)
-- 💼 Open to: IT Support, Help Desk, Junior Dev, QA, Remote internships
-- ⏰ Available: mornings Mon–Fri (overlap with US Eastern/Central) + weekends
-- 🏠 Remote only
+-  4th semester — Ingeniería en Sistemas Computacionales, Universidad del Valle de México
+-  Monterrey, Nuevo León, México
+-  Bilingual: Spanish (native) + English B2+ (certified ELET)
+-  Open to: IT Support, Help Desk, Junior Dev, QA, Remote internships
+-  Available: mornings Mon–Fri (overlap with US Eastern/Central) + weekends
+-  Remote only
 
 ---
 
